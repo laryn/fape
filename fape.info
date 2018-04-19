@@ -10,3 +10,6 @@ dependencies[] = entity
 ; used without them.
 ; dependencies[] = panels
 ; dependencies[] = contextual
+
+; Tests.
+files[] = tests/fape.test
